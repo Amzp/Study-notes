@@ -1,2 +1,2 @@
 # Study-notes
-计算机课程的Marknote笔记
+计算机课程的Markdown笔记
